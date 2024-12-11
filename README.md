@@ -1,4 +1,4 @@
-# CardiovascularDisease
+# Cardiovascular Disease
 Study of Possible Risk Factors Caused Cardiovascular (Heart) Failures
 
 ## Table of Contents
